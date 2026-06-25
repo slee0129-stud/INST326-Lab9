@@ -1,2 +1,2 @@
 # INST326-Lab9
-INST326 - Lab 9
+A message header is something that begins with a ##. It displays the project title and is an intro to the repo.
